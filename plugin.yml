@@ -1,9 +1,9 @@
 name: BossPlugin
 version: 3.21
-api: 3.11.0
+api: 3.22.1
 author: HmmHmmmmm
 main: hmmhmmmm\boss\Boss
-website: https://github.com/HmmHmmmm/BossPlugin
+website: https://github.com/raditya743/BossPlugin
 depend:
 - Slapper
 - PureEntitiesX
